@@ -1,11 +1,11 @@
-package mohamedasifmohammedassignment2;
+package bank;
 
 /**
  * @author Mohammed Mohamed Asif
  */
 import java.util.Scanner;
 
-public class Start {
+public class Main {
 
     private static Scanner inputA, inputB;
 

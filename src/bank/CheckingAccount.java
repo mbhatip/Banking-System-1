@@ -1,4 +1,4 @@
-package mohamedasifmohammedassignment2;
+package bank;
 
 /**
  *

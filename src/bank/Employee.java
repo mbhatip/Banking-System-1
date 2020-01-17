@@ -6,7 +6,7 @@
 /**
  * @author Mohammed Mohamed Asif
  */
-package mohamedasifmohammedassignment2;
+package bank;
 
 /**
  *
